@@ -1,0 +1,91 @@
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Project_Hot\bin\Debug\Project_Hot.exe.config
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Project_Hot\bin\Debug\Project_Hot.exe
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Project_Hot\bin\Debug\Project_Hot.pdb
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Project_Hot\obj\Debug\Project_Hot.csprojAssemblyReference.cache
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Login.resources
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Properties.Resources.resources
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Project_Hot\obj\Debug\Project_Hot.csproj.GenerateResource.cache
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Project_Hot\obj\Debug\Project_Hot.csproj.CoreCompileInputs.cache
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Project_Hot\obj\Debug\Project_Hot.exe
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Project_Hot\obj\Debug\Project_Hot.pdb
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Employees.resources
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Main.resources
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Username.resources
+C:\Users\artyo\Downloads\Project_Hot\Project_Hot\Project_Hot\bin\Debug\Project_Hot.exe.config
+C:\Users\artyo\Downloads\Project_Hot\Project_Hot\Project_Hot\bin\Debug\Project_Hot.exe
+C:\Users\artyo\Downloads\Project_Hot\Project_Hot\Project_Hot\bin\Debug\Project_Hot.pdb
+C:\Users\artyo\Downloads\Project_Hot\Project_Hot\Project_Hot\obj\Debug\Project_Hot.csprojAssemblyReference.cache
+C:\Users\artyo\Downloads\Project_Hot\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Login.resources
+C:\Users\artyo\Downloads\Project_Hot\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Employees.resources
+C:\Users\artyo\Downloads\Project_Hot\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Main.resources
+C:\Users\artyo\Downloads\Project_Hot\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Properties.Resources.resources
+C:\Users\artyo\Downloads\Project_Hot\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Username.resources
+C:\Users\artyo\Downloads\Project_Hot\Project_Hot\Project_Hot\obj\Debug\Project_Hot.csproj.GenerateResource.cache
+C:\Users\artyo\Downloads\Project_Hot\Project_Hot\Project_Hot\obj\Debug\Project_Hot.csproj.CoreCompileInputs.cache
+C:\Users\artyo\Downloads\Project_Hot\Project_Hot\Project_Hot\obj\Debug\Project_Hot.exe
+C:\Users\artyo\Downloads\Project_Hot\Project_Hot\Project_Hot\obj\Debug\Project_Hot.pdb
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Server_side\Client_side\Project_Hot\Project_Hot\bin\Debug\Project_Hot.exe.config
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Server_side\Client_side\Project_Hot\Project_Hot\bin\Debug\Project_Hot.exe
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Server_side\Client_side\Project_Hot\Project_Hot\bin\Debug\Project_Hot.pdb
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Server_side\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.csprojAssemblyReference.cache
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Server_side\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Login.resources
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Server_side\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Employees.resources
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Server_side\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Main.resources
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Server_side\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Properties.Resources.resources
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Server_side\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Username.resources
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Server_side\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.csproj.GenerateResource.cache
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Server_side\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.csproj.CoreCompileInputs.cache
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Server_side\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.exe
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Server_side\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.pdb
+C:\Users\artyo\Desktop\HOT Project\30.03.21\Server_side\Client_side\Project_Hot\Project_Hot\bin\Debug\Project_Hot.exe.config
+C:\Users\artyo\Desktop\HOT Project\30.03.21\Server_side\Client_side\Project_Hot\Project_Hot\bin\Debug\Project_Hot.exe
+C:\Users\artyo\Desktop\HOT Project\30.03.21\Server_side\Client_side\Project_Hot\Project_Hot\bin\Debug\Project_Hot.pdb
+C:\Users\artyo\Desktop\HOT Project\30.03.21\Server_side\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.csprojAssemblyReference.cache
+C:\Users\artyo\Desktop\HOT Project\30.03.21\Server_side\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Login.resources
+C:\Users\artyo\Desktop\HOT Project\30.03.21\Server_side\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Employees.resources
+C:\Users\artyo\Desktop\HOT Project\30.03.21\Server_side\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Main.resources
+C:\Users\artyo\Desktop\HOT Project\30.03.21\Server_side\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Properties.Resources.resources
+C:\Users\artyo\Desktop\HOT Project\30.03.21\Server_side\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Username.resources
+C:\Users\artyo\Desktop\HOT Project\30.03.21\Server_side\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.csproj.GenerateResource.cache
+C:\Users\artyo\Desktop\HOT Project\30.03.21\Server_side\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.csproj.CoreCompileInputs.cache
+C:\Users\artyo\Desktop\HOT Project\30.03.21\Server_side\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.exe
+C:\Users\artyo\Desktop\HOT Project\30.03.21\Server_side\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.pdb
+C:\Users\artyo\Desktop\HOT Project\03.07.21\Client_side\Project_Hot\Project_Hot\bin\Debug\Project_Hot.exe.config
+C:\Users\artyo\Desktop\HOT Project\03.07.21\Client_side\Project_Hot\Project_Hot\bin\Debug\Project_Hot.exe
+C:\Users\artyo\Desktop\HOT Project\03.07.21\Client_side\Project_Hot\Project_Hot\bin\Debug\Project_Hot.pdb
+C:\Users\artyo\Desktop\HOT Project\03.07.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.csprojAssemblyReference.cache
+C:\Users\artyo\Desktop\HOT Project\03.07.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Login.resources
+C:\Users\artyo\Desktop\HOT Project\03.07.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Employees.resources
+C:\Users\artyo\Desktop\HOT Project\03.07.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Main.resources
+C:\Users\artyo\Desktop\HOT Project\03.07.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Properties.Resources.resources
+C:\Users\artyo\Desktop\HOT Project\03.07.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Username.resources
+C:\Users\artyo\Desktop\HOT Project\03.07.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.csproj.GenerateResource.cache
+C:\Users\artyo\Desktop\HOT Project\03.07.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.csproj.CoreCompileInputs.cache
+C:\Users\artyo\Desktop\HOT Project\03.07.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.exe
+C:\Users\artyo\Desktop\HOT Project\03.07.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.pdb
+C:\Users\artyo\Desktop\HOT Project\30.11.21\Client_side\Project_Hot\Project_Hot\bin\Debug\Project_Hot.exe.config
+C:\Users\artyo\Desktop\HOT Project\30.11.21\Client_side\Project_Hot\Project_Hot\bin\Debug\Project_Hot.exe
+C:\Users\artyo\Desktop\HOT Project\30.11.21\Client_side\Project_Hot\Project_Hot\bin\Debug\Project_Hot.pdb
+C:\Users\artyo\Desktop\HOT Project\30.11.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.csprojAssemblyReference.cache
+C:\Users\artyo\Desktop\HOT Project\30.11.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Login.resources
+C:\Users\artyo\Desktop\HOT Project\30.11.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Employees.resources
+C:\Users\artyo\Desktop\HOT Project\30.11.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Main.resources
+C:\Users\artyo\Desktop\HOT Project\30.11.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Properties.Resources.resources
+C:\Users\artyo\Desktop\HOT Project\30.11.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Username.resources
+C:\Users\artyo\Desktop\HOT Project\30.11.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.csproj.GenerateResource.cache
+C:\Users\artyo\Desktop\HOT Project\30.11.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.csproj.CoreCompileInputs.cache
+C:\Users\artyo\Desktop\HOT Project\30.11.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.exe
+C:\Users\artyo\Desktop\HOT Project\30.11.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.pdb
+C:\Users\artyo\Desktop\HOT Project\HOT_Project_03122021\30.11.21\Client_side\Project_Hot\Project_Hot\bin\Debug\Project_Hot.exe.config
+C:\Users\artyo\Desktop\HOT Project\HOT_Project_03122021\30.11.21\Client_side\Project_Hot\Project_Hot\bin\Debug\Project_Hot.exe
+C:\Users\artyo\Desktop\HOT Project\HOT_Project_03122021\30.11.21\Client_side\Project_Hot\Project_Hot\bin\Debug\Project_Hot.pdb
+C:\Users\artyo\Desktop\HOT Project\HOT_Project_03122021\30.11.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.csprojAssemblyReference.cache
+C:\Users\artyo\Desktop\HOT Project\HOT_Project_03122021\30.11.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Login.resources
+C:\Users\artyo\Desktop\HOT Project\HOT_Project_03122021\30.11.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Employees.resources
+C:\Users\artyo\Desktop\HOT Project\HOT_Project_03122021\30.11.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Main.resources
+C:\Users\artyo\Desktop\HOT Project\HOT_Project_03122021\30.11.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Properties.Resources.resources
+C:\Users\artyo\Desktop\HOT Project\HOT_Project_03122021\30.11.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.Username.resources
+C:\Users\artyo\Desktop\HOT Project\HOT_Project_03122021\30.11.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.csproj.GenerateResource.cache
+C:\Users\artyo\Desktop\HOT Project\HOT_Project_03122021\30.11.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.csproj.CoreCompileInputs.cache
+C:\Users\artyo\Desktop\HOT Project\HOT_Project_03122021\30.11.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.exe
+C:\Users\artyo\Desktop\HOT Project\HOT_Project_03122021\30.11.21\Client_side\Project_Hot\Project_Hot\obj\Debug\Project_Hot.pdb
